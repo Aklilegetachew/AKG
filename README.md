@@ -1,6 +1,5 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"> , I'm Aklile Getachew</h1>
 
-
 <h2>Hello there!</h2>
 
 <h3 align="center"> I have more than two years of experience with Node.js, React, and Vue to build reliable applications. I am a fervent JavaScript enthusiast. I've developed extensive knowledge and skills in developing scalable, effective, and high-performance web apps as a senior developer.
@@ -9,7 +8,7 @@ I have worked on a variety of projects during my career, from creating straightf
 
 - 🌱 I’m currently working at Versavvy Media PLC
 
-<!-- 
+<!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -17,7 +16,7 @@ I have worked on a variety of projects during my career, from creating straightf
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
  -->
-<!-- 
+<!--
 ## I'm a Developer!!
 
 - 🌱 I’m currently working at Versavvy Media PLC
@@ -32,24 +31,15 @@ I have worked on a variety of projects during my career, from creating straightf
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://nuredinibrahim.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://nuredinibrahim.netlify.app#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aklilegetachew/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aklilegetachew/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/nuredin.10#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/nuredin.10#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nuredin10#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nuredin10#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/nuredin.10#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/nuredin.10#gh-dark-mode-only)
-
-
+[![website](./img/globe-light.svg)](https://aklilegetachew.github.io/my-Portfolio/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://aklilegetachew.github.io/my-Portfolio/#gh-dark-mode-only)
 
 ---
 
 ### Languages and Tools:
-
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -65,8 +55,6 @@ I have worked on a variety of projects during my career, from creating straightf
 <br />
 
 ---
-
-
 
 <h3 align="left"><b>⚡ My Development Statistics</b></h3>
 
